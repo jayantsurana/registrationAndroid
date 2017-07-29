@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="DialogTheme" parent="android:Theme.DeviceDefault.Dialog.MinWidth">
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textColorPrimary">@android:color/holo_red_dark</item>
+        <item name="android:textColorSecondary">@android:color/holo_red_dark</item>
+        <item name="colorControlActivated">@android:color/holo_red_dark</item>
+
+
+
+    </style>
+    <style name="tool" parent="Theme.AppCompat.Light">
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimaryDark">@color/lightRed</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="reg" parent="Theme.AppCompat.Light">
+        <item name="android:textColorLink">@android:color/holo_red_dark</item>
+        <item name="android:textColor">@color/whitecolor</item>
+        <item name="android:textColorHint">@color/ultraLightGray_Lowlight</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:textColorSecondary">@android:color/holo_red_dark</item>
+        <item name="colorPrimary">@color/whitecolor</item>
+        <item name="colorPrimaryDark">@android:color/holo_red_dark</item>
+        <item name="android:textColorPrimary">@color/whitecolor</item>
+        <item name="colorAccent">@android:color/holo_red_dark</item>
+        <item name="colorControlActivated">@color/whitecolor</item>
+        <item name="colorControlNormal">@android:color/holo_red_dark</item>
+        <item name="colorControlHighlight">@android:color/holo_red_dark</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
