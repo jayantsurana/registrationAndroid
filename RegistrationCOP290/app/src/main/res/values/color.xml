@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="whitecolor">#ffffff </color>
+
+
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="ultraLightGray_UltraLowlight">#dadada</color>
+    <color name="ultraLightGray">#B3B3B3</color>
+
+    <color name="lightRed">#FA9191</color>
+    <color name="lightRed_Pressed">#dc8080</color>
+
+
+    <color name="ultraLightGray_Lowlight">#c1c1c1</color>
+
+</resources>
